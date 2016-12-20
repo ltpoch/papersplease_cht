@@ -386,8 +386,8 @@
 "news:BLACKMARKET_EXPLODES","Checkpoint Expansion Postponed","檢查哨的擴建將延遲"
 "news:WORKPERMIT_FIRST","Jobs Few, Becoming Fewer","工作機會變得更少"
 "news:WORKPERMIT_FIRST","Immigrants Taking Jobs From Locals","外籍移民與本地勞工搶工作"
-"news:KOLECHIA_COMPLAINS_SEARCH","Kolechian Leader Files Complaint","Kolechian領導人發表正式聲明"
-"news:KOLECHIA_COMPLAINS_SEARCH","Claims Unprovoked Border Searches Violate Rights","控訴我國無預警的入境搜身違反人權"
+"news:KOLECHIA_COMPLAINS_SEARCH","Kolechian Leader Files Complaint","Kolechian領導人提出控訴"
+"news:KOLECHIA_COMPLAINS_SEARCH","Claims Unprovoked Border Searches Violate Rights","聲稱我國無預警的入境搜查違反人權"
 "news:AFTER_SUICIDE_BOMBER","Another Attack At Grestin Checkpoint!","Grestin檢查哨又傳恐怖攻擊！"
 "news:AFTER_SUICIDE_BOMBER","Suicide Bomber Slips Through Security","自殺炸彈客從警備的眼皮下溜過"
 "news:GENERIC_BOMBER","Grestin Suffers Another Border Attack","Grestin檢查哨恐攻再起！"
@@ -481,10 +481,10 @@
 "news:TALKS_BREAK_DOWN","Roadblock To Kolechian Resolution","高層決定停止與Kolechia往來"
 "news:TALKS_BREAK_DOWN","Contested City Drives Wedge","主要城市的抗議促成此項決議"
 "news:BORDER_CLOSING","Grestin Checkpoint Future Uncertain","Grestin檢查哨的未來何去何從"
-"news:BORDER_CLOSING","Too Open, Too Soon?","開放太多，還是開放太早？"
+"news:BORDER_CLOSING","Too Open, Too Soon?","開放太好，還是開放太早？"
 "text:language_code","en","zho"
 "text:language_name","ENGLISH","中文 (繁體)"
-"text:language_author","Author","@piece_yen"
+"text:language_author","Author","Piece Yen"
 "text:wrap_hyphen","-","-"
 "text:created_by","created by Lucas Pope","Lucas Pope製作"
 "text:papers_please","Papers, please.","請出示證件"
@@ -826,7 +826,7 @@ Verify information before stamping passport ENTRY VISA and returning all documen
 
 所有外籍人士將需要有效的""入境券""方可入境。
 
-Verify information before stamping passport ENTRY VISA and returning all documents to entrant. [PAGESNOTE]"
+在入境簽證欄位蓋章前請先核對所有資訊，並記得將文件全數歸還旅客。 [PAGESNOTE]"
 "bulletin:4A","Stricter credential requirements have been instituted.
 
 Arstotzkan citizens must show their ID CARD.
@@ -835,13 +835,13 @@ Foreigners must secure and present a valid ENTRY PERMIT.
 
 Entry tickets are no longer sufficient.
 
-Continued...","Stricter credential requirements have been instituted.
+Continued...","更加嚴格的認証已被下令執行了。
 
-Arstotzkan citizens must show their ID CARD.
+Arstotzka 國民現在必須出示「身份證」.
 
-Foreigners must secure and present a valid ENTRY PERMIT.
+外籍人士必須取得且出示有效的「入境證」。
 
-Entry tickets are no longer sufficient.
+只持有入境券的旅客將不再被接受入境。
 
 Continued..."
 "bulletin:4B","A new chapter detailing document features has been added to your rulebook.
@@ -850,66 +850,66 @@ Check all information thoroughly.
 
 Deny any applicant with discrepant documents.
 
-Refer to the AUDIO TRANSCRIPT to correlate entrant's statements.","A new chapter detailing document features has been added to your rulebook.
+Refer to the AUDIO TRANSCRIPT to correlate entrant's statements.","你的規則手冊中新增了包含各項文件詳細說明的章節。
 
-Check all information thoroughly.
+請仔細核對所有資訊。
 
-Deny any applicant with discrepant documents.
+拒簽任何持資訊不實的申請人。
 
-Refer to the AUDIO TRANSCRIPT to correlate entrant's statements."
+請參照「對話紀錄」以核對旅客的說辭與文件。"
 "bulletin:5A","You are now authorized to detain suspicious individuals.
 
-Interrogate discrepancies to enable detention option.","You are now authorized to detain suspicious individuals.
+Interrogate discrepancies to enable detention option.","現在開始你被授權將可疑人物移送法辦。
 
-Interrogate discrepancies to enable detention option."
+質詢有出入的資訊以啟動拘禁程序。"
 "bulletin:6A","The Ministry of Labor has instituted a special program to control immigrant labor.
 
-Travelers entering for work require a valid WORK PASS.","The Ministry of Labor has instituted a special program to control immigrant labor.
+Travelers entering for work require a valid WORK PASS.","國家勞動部推動了一項特別方案來管理外籍勞工。
 
-Travelers entering for work require a valid 工作許可證."
+入境工作的旅客將必須出示有效的工作許可證."
 "bulletin:7A","To facilitate more thorough inspections, a SEARCH scanner system has been installed in your booth.
 
 Kolechian extremists are suspected in yesterday's bombing. 
 
-Search all Kolechians before approving their entry.","To facilitate more thorough inspections, a SEARCH scanner system has been installed in your booth.
+Search all Kolechians before approving their entry.","為了增進檢閱效率，一台搜身系統已經被安裝在你的工作室中。
 
-Kolechian extremists are suspected in yesterday's bombing. 
+我們懷疑Kolechia的激進份子涉及昨天的爆炸案。 
 
-Search all Kolechians before approving their entry."
+請對所有的Kolechia籍旅客進行搜身才可放行。"
 "bulletin:8A","The Kolechians have filed a formal complaint. 
 
 A diplomat will arrive today for high-level discussions.
 
 Automatic searches of Kolechian citizens are no longer authorized.
 
-Continued...[PAGESNOTE]","The Kolechians have filed a formal complaint. 
+Continued...[PAGESNOTE]","Kolechia 對我們發表了一份官方控訴 。
 
-A diplomat will arrive today for high-level discussions.
+一位外交官今天將入境與我方高層檢討。
 
-Automatic searches of Kolechian citizens are no longer authorized.
+針對Kolechia國民的無條件搜查已被撤銷。
 
-Continued...[PAGESNOTE]"
+接下頁...[PAGESNOTE]"
 "bulletin:8B","__________________________
 DIPLOMATS
 
 Diplomats require only a PASSPORT and valid DIPLOMATIC AUTHORIZATION to enter. 
 
 Refer to the rulebook for updated document information.","__________________________
-DIPLOMATS
+外交官
 
-Diplomats require only a PASSPORT and valid DIPLOMATIC AUTHORIZATION to enter. 
+外交官只需要「護照」以及有效的「外交官授權書」即可入境。
 
-Refer to the rulebook for updated document information."
+請參閱規則手冊以了解更新的資訊。"
 "bulletin:9A","An undercover agent of the Ministry of Information has been compromised.
 
-The Ministry of Admission has offered its services as liaison. Expect a possible drop later today.","An undercover agent of the 國家情報部 has been compromised.
+The Ministry of Admission has offered its services as liaison. Expect a possible drop later today.","國家情報部一位臥底探員的偽裝身份曝光了。
 
-The Ministry of Admission has offered its services as liaison. Expect a possible drop later today."
+入境管理部將提供援助以便與臥底取得連繫。可能會在今天稍晚時上門。"
 "bulletin:10A","The divisional authority of East Grestin operations will visit today.
 
-Maintain your best behavior.","The divisional authority of East Grestin operations will visit today.
+Maintain your best behavior.","East Grestin的部門主管今天會來進行視察。
 
-Maintain your best behavior."
+請展現你最好的工作態度。"
 "bulletin:11A","A break-in at M.O.A. offices may have compromised our document sealing plates.
 
 Nothing important was stolen but intelligence suggests counterfeiters have already begun forging official Arstotzkan documents.
@@ -1211,7 +1211,7 @@ Continue to confiscate all Arstotzkan passports from native entrants."
 "facts","Id Card","Id Card"
 "facts","Id Supplement","Id Supplement"
 "facts","Access Permit","Access Permit"
-"facts","Diplomatic Auth","Diplomatic Auth"
+"facts","Diplomatic Auth","外交官授權書"
 "facts","Asylum Grant","政治庇護證明書"
 "facts","Vaccine Cert","Vaccine Cert"
 "facts","Identity Record","Identity Record"
@@ -1241,34 +1241,34 @@ Continue to confiscate all Arstotzkan passports from native entrants."
 "facts","Lendiforma","Lendiforma"
 "facts","Wozenfield","Wozenfield"
 "facts","Fardesto","Fardesto"
-"facts","DENTISTRY","DENTISTRY"
-"facts","HEALTH-CARE","HEALTH-CARE"
-"facts","GENERAL-LABOR","GENERAL-LABOR"
-"facts","ENGINEERING","ENGINEERING"
-"facts","SPORTS","SPORTS"
-"facts","ARCHITECTURE","ARCHITECTURE"
-"facts","FOOD-SERVICE","FOOD-SERVICE"
-"facts","AVIATION","AVIATION"
-"facts","ACCOUNTING","ACCOUNTING"
-"facts","FISHING","FISHING"
-"facts","DRAFTING","DRAFTING"
-"facts","RESEARCH","RESEARCH"
-"facts","FINE-ARTS","FINE-ARTS"
-"facts","AGRICULTURE","AGRICULTURE"
-"facts","MANUFACTURING","MANUFACTURING"
-"facts","CONSTRUCTION","CONSTRUCTION"
-"facts","SURVEYING","SURVEYING"
-"facts","STATISTICS","STATISTICS"
-"facts","POLIO","POLIO"
-"facts","HPV","HPV"
-"facts","COWPOX","COWPOX"
-"facts","TETANUS","TETANUS"
-"facts","YEL.FEV.","YEL.FEV."
-"facts","CHOLERA","CHOLERA"
-"facts","RUBELLA","RUBELLA"
-"facts","HEP-B","HEP-B"
-"facts","MEASLES","MEASLES"
-"facts","TUBERC.","TUBERC."
+"facts","DENTISTRY","牙醫"
+"facts","HEALTH-CARE","健康照護"
+"facts","GENERAL-LABOR","一般勞工"
+"facts","ENGINEERING","工程"
+"facts","SPORTS","運動員"
+"facts","ARCHITECTURE","建築師"
+"facts","FOOD-SERVICE","食品業"
+"facts","AVIATION","航空業"
+"facts","ACCOUNTING","會計"
+"facts","FISHING","漁業"
+"facts","DRAFTING","編輯"
+"facts","RESEARCH","研究工作"
+"facts","FINE-ARTS","純藝術"
+"facts","AGRICULTURE","農業"
+"facts","MANUFACTURING","製造業"
+"facts","CONSTRUCTION","營建業"
+"facts","SURVEYING","測量學"
+"facts","STATISTICS","統計學"
+"facts","POLIO","小兒麻痺"
+"facts","HPV","人類乳突病毒"
+"facts","COWPOX","牛痘"
+"facts","TETANUS","破傷風"
+"facts","YEL.FEV.","黃熱病"
+"facts","CHOLERA","霍亂"
+"facts","RUBELLA","德國麻疹"
+"facts","HEP-B","B型肝炎"
+"facts","MEASLES","麻疹"
+"facts","TUBERC.","肺結核"
 "facts","2 DAYS","2 DAYS"
 "facts","14 DAYS","14 DAYS"
 "facts","1 MONTH","1 MONTH"
@@ -1292,7 +1292,7 @@ Continue to confiscate all Arstotzkan passports from native entrants."
 "facts","Id Card: Non-matching photo","Id Card: Non-matching photo"
 "facts","Forged Access Permit","Forged Access Permit"
 "facts","No Diplomatic Access to Arstotzka","No Diplomatic Access to Arstotzka"
-"facts","Forged Diplomatic Auth","Forged Diplomatic Auth"
+"facts","Forged Diplomatic Auth","偽造的外交官授權書"
 "facts","Forged Asylum Grant Seal","偽造的政治庇護證明書"
 "facts","Necessary vaccine expired","Necessary vaccine expired"
 "facts","Missing necessary vaccine","Missing necessary vaccine"
@@ -1319,7 +1319,7 @@ Continue to confiscate all Arstotzkan passports from native entrants."
 "facts","Arstotzkan citizens only","Arstotzkan citizens only"
 "facts","No entry from United Federation","No entry from United Federation"
 "facts","No weapons or contraband","No weapons or contraband"
-"facts","All Kolechians must be searched","All Kolechians must be searched"
+"facts","All Kolechians must be searched","所有 Kolechia 的國民必須被強制搜身。"
 "facts","Diplomats require authorization","Diplomats require authorization"
 "facts","Entrant must have polio vaccine cert","Entrant must have polio vaccine cert"
 "facts","Asylum seekers must have a grant","Asylum seekers must have a grant"
@@ -1353,7 +1353,7 @@ Continue to confiscate all Arstotzkan passports from native entrants."
 "paper:Rules","Id Supplement","Id Supplement"
 "paper:Rules","Access Permit","Access Permit"
 "paper:Rules","Work Pass","工作許可證"
-"paper:Rules","Diplomatic Auth.","Diplomatic Auth."
+"paper:Rules","Diplomatic Auth.","外交官授權書"
 "paper:Rules","Grant of Asylum","政治庇護證明書"
 "paper:Rules","Vaccine Cert.","Vaccine Cert."
 "intro","Congratulations.","恭喜！"
@@ -1365,12 +1365,12 @@ Continue to confiscate all Arstotzkan passports from native entrants."
 "end:in-debt","Your family will be sent back to their village.","Your family will be sent back to their village."
 "end:in-debt","You are under arrest until your debts are repaid.","You are under arrest until your debts are repaid."
 "end:in-debt","A replacement inspector will be found easily.","A replacement inspector will be found easily."
-"end:in-debt","Glory to Arstotzka.","Glory to Arstotzka."
-"end:family-dead","Your entire family is gone.","Your entire family is gone."
-"end:family-dead","The Ministry Of Labor focuses on Arstotzka's future growth.","The Ministry Of Labor focuses on Arstotzka's future growth."
-"end:family-dead","Workers are expected to support large healthy families.","Workers are expected to support large healthy families."
-"end:family-dead","Your position will be filled by someone more appropriate.","Your position will be filled by someone more appropriate."
-"end:family-dead","Glory to Arstotzka.","Glory to Arstotzka."
+"end:in-debt","Glory to Arstotzka.","Arstotzka萬歲。"
+"end:family-dead","Your entire family is gone.","你所有的家人全部都過世了。"
+"end:family-dead","The Ministry Of Labor focuses on Arstotzka's future growth.","國家勞動部相當關注 Arstotzka 未來的發展。"
+"end:family-dead","Workers are expected to support large healthy families.","勞工有責任及義務扶養一群健康的家人。"
+"end:family-dead","Your position will be filled by someone more appropriate.","你的現職將被其他更...適合的人員取代。"
+"end:family-dead","Glory to Arstotzka.","Arstotzka萬歲。"
 "end:turned-over-ezic-docs","You are under arrest for associating with suspicious groups.","你因為涉嫌協助可疑團體而被捕。"
 "end:turned-over-ezic-docs","The Ministry of Information will perform a full audit of your recent activities.","國家情報部會對你最近的活動<br>做出完整的調查聽證會。"
 "end:turned-over-ezic-docs","Glory to Arstotzka.","Arstotzka萬歲"
@@ -1378,32 +1378,32 @@ Continue to confiscate all Arstotzkan passports from native entrants."
 "end:caught-with-ezic-money","You are under arrest pending a full audit of your recent activities.","You are under arrest pending a full audit of your recent activities."
 "end:caught-with-ezic-money","Your family will likewise be held for questioning.","Your family will likewise be held for questioning."
 "end:caught-with-ezic-money","The border will remain open under a replacement inspector.","The border will remain open under a replacement inspector."
-"end:caught-with-ezic-money","Glory to Arstotzka.","Glory to Arstotzka."
+"end:caught-with-ezic-money","Glory to Arstotzka.","Arstotzka萬歲。"
 "end:killed-innocent","You are under arrest for the murder of an innocent.","You are under arrest for the murder of an innocent."
 "end:killed-innocent","The penalty is death.","The penalty is death."
 "end:killed-innocent","Your family will be questioned about their involvement.","Your family will be questioned about their involvement."
 "end:killed-innocent","The border will remain open under a replacement inspector.","The border will remain open under a replacement inspector."
-"end:killed-innocent","Glory to Arstotzka.","Glory to Arstotzka."
+"end:killed-innocent","Glory to Arstotzka.","Arstotzka萬歲。"
 "end:tranqed-innocent","You are under arrest for attacking an innocent.","You are under arrest for attacking an innocent."
 "end:tranqed-innocent","The penalty is forced labor.","The penalty is forced labor."
 "end:tranqed-innocent","Your family will be questioned about their involvement.","Your family will be questioned about their involvement."
 "end:tranqed-innocent","The border will remain open under a replacement inspector.","The border will remain open under a replacement inspector."
-"end:tranqed-innocent","Glory to Arstotzka.","Glory to Arstotzka."
+"end:tranqed-innocent","Glory to Arstotzka.","Arstotzka萬歲。"
 "end:killed-guard","You are under arrest for the murder of an Arstotzkan official.","You are under arrest for the murder of an Arstotzkan official."
 "end:killed-guard","The penalty is death.","The penalty is death."
 "end:killed-guard","Your family will be questioned about their involvement.","Your family will be questioned about their involvement."
 "end:killed-guard","The border will remain open under a replacement inspector.","The border will remain open under a replacement inspector."
-"end:killed-guard","Glory to Arstotzka.","Glory to Arstotzka."
+"end:killed-guard","Glory to Arstotzka.","Arstotzka萬歲。"
 "end:tranqed-guard","You are under arrest for attacking an Arstotzkan official.","You are under arrest for attacking an Arstotzkan official."
 "end:tranqed-guard","The penalty is death.","The penalty is death."
 "end:tranqed-guard","Your family will be questioned about their involvement.","Your family will be questioned about their involvement."
 "end:tranqed-guard","The border will remain open under a replacement inspector.","The border will remain open under a replacement inspector."
-"end:tranqed-guard","Glory to Arstotzka.","Glory to Arstotzka."
+"end:tranqed-guard","Glory to Arstotzka.","Arstotzka萬歲。"
 "end:killed-target","You are under arrest for the murder of an innocent.","You are under arrest for the murder of an innocent."
 "end:killed-target","The penalty is death.","The penalty is death."
 "end:killed-target","Your family will be questioned about their involvement.","Your family will be questioned about their involvement."
 "end:killed-target","The border will remain open under a replacement inspector.","The border will remain open under a replacement inspector."
-"end:killed-target","Glory to Arstotzka.","Glory to Arstotzka."
+"end:killed-target","Glory to Arstotzka.","Arstotzka萬歲。"
 "end:killed-target","[A note appears from under the cell door]","[A note appears from under the cell door]"
 "end:killed-target","INSPECTOR - FAMILY IS SAFE - TARGET ELIMINATED BUT OTHER PROBLEMS ARISE","INSPECTOR - FAMILY IS SAFE - TARGET ELIMINATED BUT OTHER PROBLEMS ARISE"
 "end:killed-target","REPLACEMENT INSPECTOR NOT COOPERATIVE - EZIC ACTIVITIES HINDERED","REPLACEMENT INSPECTOR NOT COOPERATIVE - EZIC ACTIVITIES HINDERED"
@@ -1413,7 +1413,7 @@ Continue to confiscate all Arstotzkan passports from native entrants."
 "end:tranqed-target","The penalty is forced labor.","The penalty is forced labor."
 "end:tranqed-target","Your family will be questioned about their involvement.","Your family will be questioned about their involvement."
 "end:tranqed-target","The border will remain open under a replacement inspector.","The border will remain open under a replacement inspector."
-"end:tranqed-target","Glory to Arstotzka.","Glory to Arstotzka."
+"end:tranqed-target","Glory to Arstotzka.","Arstotzka萬歲。"
 "end:tranqed-target","[A note appears from under the cell door]","[A note appears from under the cell door]"
 "end:tranqed-target","INSPECTOR - FAMILY IS SAFE - TARGET HAS RECOVERED IN HOSPITAL","INSPECTOR - FAMILY IS SAFE - TARGET HAS RECOVERED IN HOSPITAL"
 "end:tranqed-target","REPLACEMENT INSPECTOR NOT COOPERATIVE - EZIC ACTIVITIES HINDERED","REPLACEMENT INSPECTOR NOT COOPERATIVE - EZIC ACTIVITIES HINDERED"
@@ -1423,17 +1423,17 @@ Continue to confiscate all Arstotzkan passports from native entrants."
 "end:stuff-on-walls","The penalty is forced labor.","The penalty is forced labor."
 "end:stuff-on-walls","Your family will be sent back to their village.","Your family will be sent back to their village."
 "end:stuff-on-walls","The border will remain open under a replacement inspector.","The border will remain open under a replacement inspector."
-"end:stuff-on-walls","Glory to Arstotzka.","Glory to Arstotzka."
+"end:stuff-on-walls","Glory to Arstotzka.","Arstotzka萬歲。"
 "end:arrested-boss-buddy","Your supervisor has reported you for theft of Arstotzkan property.","Your supervisor has reported you for theft of Arstotzkan property."
 "end:arrested-boss-buddy","The penalty is forced labor.","The penalty is forced labor."
 "end:arrested-boss-buddy","Your family will be sent back to their village.","Your family will be sent back to their village."
 "end:arrested-boss-buddy","The border will remain open under a replacement inspector.","The border will remain open under a replacement inspector."
-"end:arrested-boss-buddy","Glory to Arstotzka.","Glory to Arstotzka."
+"end:arrested-boss-buddy","Glory to Arstotzka.","Arstotzka萬歲。"
 "end:wall-destroyed","The Grestin Border wall has been destroyed.","The Grestin Border wall has been destroyed."
 "end:wall-destroyed","You are under arrest for failure to defend the checkpoint.","You are under arrest for failure to defend the checkpoint."
 "end:wall-destroyed","Your family will be sent back to their village.","Your family will be sent back to their village."
 "end:wall-destroyed","The border will reopen under a replacement inspector.","The border will reopen under a replacement inspector."
-"end:wall-destroyed","Glory to Arstotzka.","Glory to Arstotzka."
+"end:wall-destroyed","Glory to Arstotzka.","Arstotzka萬歲。"
 "end:help-ezic-kill-attackers-wall-safe","Hello inspector.","Hello inspector."
 "end:help-ezic-kill-attackers-wall-safe","We have audited your recent activities.","We have audited your recent activities."
 "end:help-ezic-kill-attackers-wall-safe","Your involvement with a group calling themselves THE ORDER OF THE EZIC STAR has been uncovered.","Your involvement with a group calling themselves THE ORDER OF THE EZIC STAR has been uncovered."
@@ -1444,7 +1444,7 @@ Continue to confiscate all Arstotzkan passports from native entrants."
 "end:help-ezic-kill-attackers-wall-safe","The execution is scheduled for tonight.","The execution is scheduled for tonight."
 "end:help-ezic-kill-attackers-wall-safe","Your family's safety is unknown.","Your family's safety is unknown."
 "end:help-ezic-kill-attackers-wall-safe","EZIC has been crushed. The balance of justice is restored.","EZIC has been crushed. The balance of justice is restored."
-"end:help-ezic-kill-attackers-wall-safe","Glory to Arstotzka.","Glory to Arstotzka."
+"end:help-ezic-kill-attackers-wall-safe","Glory to Arstotzka.","Arstotzka萬歲。"
 "end:help-ezic-kill-attackers-wall-safe","[A note appears from under the cell door]","[A note appears from under the cell door]"
 "end:help-ezic-kill-attackers-wall-safe","INSPECTOR - YOU HAVE BETRAYED US AT THE LAST MOMENT","INSPECTOR - YOU HAVE BETRAYED US AT THE LAST MOMENT"
 "end:help-ezic-kill-attackers-wall-safe","THIS CHAPTER OF EZIC IS OVER - WE CAN OFFER NO HELP TO YOUR FAMILY","THIS CHAPTER OF EZIC IS OVER - WE CAN OFFER NO HELP TO YOUR FAMILY"
@@ -1465,7 +1465,7 @@ Continue to confiscate all Arstotzkan passports from native entrants."
 "end:help-few-ezic","The execution is scheduled for tonight.","The execution is scheduled for tonight."
 "end:help-few-ezic","Your family's safety is unknown.","Your family's safety is unknown."
 "end:help-few-ezic","EZIC has been crushed. The balance of justice is restored.","EZIC has been crushed. The balance of justice is restored."
-"end:help-few-ezic","Glory to Arstotzka.","Glory to Arstotzka."
+"end:help-few-ezic","Glory to Arstotzka.","Arstotzka萬歲。"
 "end:escape","You board the late train to the Northern Territories. It is nearly empty.","You board the late train to the Northern Territories. It is nearly empty."
 "end:escape","You pay for the hastily forged passport and re-entry ticket. They look terrible.","你花了大把鈔票買了匆忙偽造的護照和回國證。他們看起來糟糕到不行。"
 "end:escape","You pay for the hastily forged passports and re-entry tickets. They look terrible.","你花了大把鈔票買了匆忙偽造的護照和回國證。他們看起來糟糕到不行。"
@@ -1495,7 +1495,7 @@ Continue to confiscate all Arstotzkan passports from native entrants."
 "end:ignore-ezic","But you have served Arstotzka well.","But you have served Arstotzka well."
 "end:ignore-ezic","We will overlook these small transgressions.","We will overlook these small transgressions."
 "end:ignore-ezic","You have been cleared of any suspicion.","You have been cleared of any suspicion."
-"end:ignore-ezic","Glory to Arstotzka.","Glory to Arstotzka."
+"end:ignore-ezic","Glory to Arstotzka.","Arstotzka萬歲。"
 "end:ignore-ezic","A new agreement has been reached with Kolechia.","A new agreement has been reached with Kolechia."
 "end:ignore-ezic","Grestin Border Checkpoint will reopen soon.","Grestin Border Checkpoint will reopen soon."
 "end:ignore-ezic","Return to your post on January 1st.","Return to your post on January 1st."
@@ -1860,7 +1860,7 @@ HOLD YOUR FIRE
 "traveler:JORJI_BASE","Arstotzka the best!","Arstotzka the best!"
 "traveler:JORJI_BASE","Here, take this!","Here, take this!"
 "traveler:JORJI0","Ok! Here we go!","Ok! Here we go!"
-"traveler:JORJI0","Glory to Arstotzka!","Glory to Arstotzka!"
+"traveler:JORJI0","Glory to Arstotzka!","Arstotzka萬歲。"
 "traveler:JORJI0","The greatest country!","The greatest country!"
 "traveler:JORJI0","@Where is your passport?","@Where is your passport?"
 "traveler:JORJI0","Passport!","Passport!"
@@ -2245,7 +2245,7 @@ HOLD YOUR FIRE
 "traveler:BOSS0","Hang it on wall here.","Hang it on wall here."
 "traveler:BOSS0","I return in 10 days.~","I return in 10 days.~"
 "traveler:BOSS0","Maintain your diligence.","Maintain your diligence."
-"traveler:BOSS0","Glory to Arstotzka.","Glory to Arstotzka."
+"traveler:BOSS0","Glory to Arstotzka.","Arstotzka萬歲。"
 "traveler:BOSS0","Perhaps it was mistake to rely on lottery.","Perhaps it was mistake to rely on lottery."
 "traveler:BOSS0","Let this motivate you.~","Let this motivate you.~"
 "traveler:BOSS0","Do not embarrass me.","Do not embarrass me."
@@ -2272,7 +2272,7 @@ HOLD YOUR FIRE
 "traveler:BOSS1","Approve her entry.","Approve her entry."
 "traveler:BOSS1","She is Shae Piersovska.~","She is Shae Piersovska.~"
 "traveler:BOSS1","I do not want to hear of any trouble to her.","I do not want to hear of any trouble to her."
-"traveler:BOSS1","Glory to Arstotzka.","Glory to Arstotzka."
+"traveler:BOSS1","Glory to Arstotzka.","Arstotzka萬歲。"
 "traveler:BOSS2","You little bastard.~","You little bastard.~"
 "traveler:BOSS2","Shae thinks I am powerless fool now.","Shae thinks I am powerless fool now."
 "traveler:BOSS2","It was made very clear to let her through.","It was made very clear to let her through."
@@ -2332,7 +2332,7 @@ HOLD YOUR FIRE
 "traveler:KID_KILLER2","Read the news tomorrow.","Read the news tomorrow."
 "traveler:KID_KILLER2","She was just little girl.","She was just little girl."
 "traveler:KID_KILLER2","@I do not know what you are talking about.","@I do not know what you are talking about."
-"traveler:KID_KILLER2","Damnit.","Damnit."
+"traveler:KID_KILLER2","Damnit.","Damn it."
 "traveler:KID_KILLER2","She was just a little girl.","She was just a little girl."
 "traveler:KID_KILLER2","@Yes. He has been arrested.","@Yes. He has been arrested."
 "traveler:KID_KILLER2","What? I asked you to let him pass.","What? I asked you to let him pass."
@@ -2932,8 +2932,8 @@ HOLD YOUR FIRE
 "speech:wrong-gender","As the document says.","As the document says."
 "speech:wrong-gender","What is this question?","What is this question?"
 "speech:ask-wrong-gender-busted","There is a problem with your documentation.","There is a problem with your documentation."
-"speech:ask-approved","Glory to Arstotzka.","Glory to Arstotzka."
-"speech:ask-approved","Cause no trouble.","Cause no trouble."
+"speech:ask-approved","Glory to Arstotzka.","Arstotzka萬歲。"
+"speech:ask-approved","Cause no trouble.","別惹出任何麻煩。"
 "speech:ask-nativesonly","Try again.","Try again."
 "speech:ask-nativesonly","Arstotzkans only.","Arstotzkans only."
 "speech:ask-wrong-nation","No entry from Obristan.","No entry from Obristan."
@@ -2955,7 +2955,7 @@ HOLD YOUR FIRE
 "speech:detain","Who do you think you are?","Who do you think you are?"
 "speech:detain","You have no authority for this!","You have no authority for this!"
 "speech:detain","You are a fool!","You are a fool!"
-"speech:ask-search-enabled","You have been selected for a random search.","You have been selected for a random search."
+"speech:ask-search-enabled","You have been selected for a random search.","你被選中執行隨機搜查。"
 "speech:ask-wrong-entryticket-date","This ticket is for another day.","This ticket is for another day."
 "speech:ask-wrong-entryticket-date","You cannot enter today.","You cannot enter today."
 "speech:ask-wrong-entryticket-date","The date on this ticket is wrong.","The date on this ticket is wrong."
@@ -3004,9 +3004,9 @@ HOLD YOUR FIRE
 "speech:hidden-paper","Here.","Here."
 "speech:ask-wrong-thumbprint","Your thumb print does not match.","Your thumb print does not match."
 "speech:ask-wrong-thumbprint","This print does not match.","This print does not match."
-"speech:ask-wrong-diploaccess","Your diplomatic authorization does not cover Arstotzka.","Your diplomatic authorization does not cover Arstotzka."
-"speech:ask-wrong-diploaccess","You have no diplomatic rights here.","You have no diplomatic rights here."
-"speech:ask-wrong-diploaccess","This authorization does not include Arstotzka.","This authorization does not include Arstotzka."
+"speech:ask-wrong-diploaccess","Your diplomatic authorization does not cover Arstotzka.","你的外交官授權不包含Arstotzka。"
+"speech:ask-wrong-diploaccess","You have no diplomatic rights here.","你在我國沒有外交授權。"
+"speech:ask-wrong-diploaccess","This authorization does not include Arstotzka.","這份授權不包含Arstotzka。"
 "speech:wrong-diploaccess","Nonsense.","Nonsense."
 "speech:wrong-diploaccess","Check with your superiors.","Check with your superiors."
 "speech:wrong-diploaccess","I have full authorization.","I have full authorization."
