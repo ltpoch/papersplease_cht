@@ -794,13 +794,13 @@ Your booth's INSPECTION hardware is now installed.
 
 Check all passport information carefully for discrepancies. Deny any entrant with inconsistent information.
 
-Continued...[PAGESNOTE]","From today, foreigners with a valid passport are permitted to enter.
+Continued...[PAGESNOTE]","從今天起，持有效護照的外籍人士將被准許入境。
 
-Your booth's INSPECTION hardware is now installed.
+「檢閱」相關的硬體已經安裝在你的工作室中。
 
-Check all passport information carefully for discrepancies. Deny any entrant with inconsistent information.
+請仔細檢查護照是否有錯誤資訊；拒簽所有所持文件不符的申請人。
 
-Continued...[PAGESNOTE]"
+接下頁...[PAGESNOTE]"
 "bulletin:2B","__________________________
 INSPECT MODE
 
@@ -810,21 +810,21 @@ __________________________
 RULES &amp; REGULATIONS
 
 This post is bound by Ministry of Admission rules and regulations. Study the rule book closely.","__________________________
-INSPECT MODE
+檢閱模式
 
-Enter INSPECT mode using the red button on your desk. While inspecting, highlight two pieces of discrepant information for further options.
+點擊在你桌面右下角的紅色按鈕以進入「檢閱模式」。進行檢閱時，標注兩項有出入的資訊以進一步質詢。
 
 __________________________
-RULES &amp; REGULATIONS
+守則與規章
 
-This post is bound by Ministry of Admission rules and regulations. Study the rule book closely."
+此哨所必須遵從入境管理部制定的守則及規章，請詳閱規則手冊。"
 "bulletin:3A","Entry for non-citizens is now regulated. 
 
 All foreigners require a valid ENTRY TICKET.
 
-Verify information before stamping passport ENTRY VISA and returning all documents to entrant. [PAGESNOTE]","Entry for non-citizens is now regulated. 
+Verify information before stamping passport ENTRY VISA and returning all documents to entrant. [PAGESNOTE]","現在開始，非國民的入境將受到管制。
 
-All foreigners require a valid ENTRY TICKET.
+所有外籍人士將需要有效的""入境券""方可入境。
 
 Verify information before stamping passport ENTRY VISA and returning all documents to entrant. [PAGESNOTE]"
 "bulletin:4A","Stricter credential requirements have been instituted.
@@ -1205,7 +1205,7 @@ Continue to confiscate all Arstotzkan passports from native entrants."
 "facts","East Grestin","East Grestin"
 "facts","Paradizna","Paradizna"
 "facts","Passport","Passport"
-"facts","Entry Ticket","Entry Ticket"
+"facts","Entry Ticket","入境券"
 "facts","Entry Permit","Entry Permit"
 "facts","Work Pass","工作許可證"
 "facts","Id Card","Id Card"
@@ -1311,7 +1311,7 @@ Continue to confiscate all Arstotzkan passports from native entrants."
 "facts","Entrant Holds Conflicting Passports","Entrant Holds Conflicting Passports"
 "facts","Entrant must have a passport","Entrant must have a passport"
 "facts","Foreigners require an entry permit","Foreigners require an entry permit"
-"facts","Foreigners require an entry ticket","Foreigners require an entry ticket"
+"facts","Foreigners require an entry ticket","外籍人士需要入境券"
 "facts","All documents must be current","All documents must be current"
 "facts","Workers must have a work pass","移工需出示工作許可證"
 "facts","Citizens must have an id card","Citizens must have an id card"
@@ -1467,8 +1467,8 @@ Continue to confiscate all Arstotzkan passports from native entrants."
 "end:help-few-ezic","EZIC has been crushed. The balance of justice is restored.","EZIC has been crushed. The balance of justice is restored."
 "end:help-few-ezic","Glory to Arstotzka.","Glory to Arstotzka."
 "end:escape","You board the late train to the Northern Territories. It is nearly empty.","You board the late train to the Northern Territories. It is nearly empty."
-"end:escape","You pay for the hastily forged passport and re-entry ticket. They look terrible.","You pay for the hastily forged passport and re-entry ticket. They look terrible."
-"end:escape","You pay for the hastily forged passports and re-entry tickets. They look terrible.","You pay for the hastily forged passports and re-entry tickets. They look terrible."
+"end:escape","You pay for the hastily forged passport and re-entry ticket. They look terrible.","你花了大把鈔票買了匆忙偽造的護照和回國證。他們看起來糟糕到不行。"
+"end:escape","You pay for the hastily forged passports and re-entry tickets. They look terrible.","你花了大把鈔票買了匆忙偽造的護照和回國證。他們看起來糟糕到不行。"
 "end:escape","You reach the border crossing at dawn. The line is immense.","You reach the border crossing at dawn. The line is immense."
 "end:escape","Six hours later.","Six hours later."
 "end:escape","Your documents.","Your documents."
@@ -2961,9 +2961,9 @@ HOLD YOUR FIRE
 "speech:ask-wrong-entryticket-date","The date on this ticket is wrong.","The date on this ticket is wrong."
 "speech:wrong-entryticket-date","It is my mistake.","It is my mistake."
 "speech:wrong-entryticket-date","Oh?","Oh?"
-"speech:ask-missing-entryticket","You cannot enter without a ticket.","You cannot enter without a ticket."
-"speech:ask-missing-entryticket","Foreigners must present an entry ticket.","Foreigners must present an entry ticket."
-"speech:ask-missing-entryticket","Where is your entry ticket?","Where is your entry ticket?"
+"speech:ask-missing-entryticket","You cannot enter without a ticket.","無入境券者不得入境"
+"speech:ask-missing-entryticket","Foreigners must present an entry ticket.","外籍人士必須出示入境券。"
+"speech:ask-missing-entryticket","Where is your entry ticket?","你的入境券呢？"
 "speech:missing-entryticket","I do not know what that is.","I do not know what that is."
 "speech:missing-entryticket","I have none.","I have none."
 "speech:missing-entryticket","It was lost.","It was lost."
