@@ -460,7 +460,7 @@
 "news:VIRUS_BAN_UNITED_FED","Previously Under Control, Polio Back With Vengeance","先前成功被控制的小兒麻痺症回來復仇了"
 "news:VIRUS_REQUIRE_CERT","Ministry of Health Acts To Protect Citizens","國民健康部採取行動保護國人"
 "news:VIRUS_REQUIRE_CERT","New Policy, Safeguards At Borders","在邊境實施新的政策及加派守衛"
-"news:SERIAL_KILLER","Serial Child Killer Escapes United Fed Prison!","兒童連環殺手自 United Fed 監獄脫逃！"
+"news:SERIAL_KILLER","Serial Child Killer Escapes United Fed Prison!","兒童連環殺手自 United Fed 監獄脱逃！"
 "news:SERIAL_KILLER","Simon Wens: An Arstotzkan Native - Returning Home?","Simon Wen是個土生土長的 Arstotzka 人，他會跑回家鄉嗎？"
 "news:SERIAL_KILLER_MURDERED","Bloody Scene In Gennistora!","Gennistora 驚見血案！"
 "news:SERIAL_KILLER_MURDERED","Simon Wens Found Dead In Confusing Mess","在奇怪的兇案現場發現到 Simon Wens 的屍體。"
@@ -475,7 +475,7 @@
 "news:MARKED_DIPLOMAT","Top-Level Talks Called","高階外交會談召開"
 "news:MARKED_DIPLOMAT","Grestin Territory Remains Dividing Issue","Grestin 區域的分裂問題懸而未決"
 "news:DIPLOMAT_SWAPPED","Kolechians Are Crazy","Kolechia 的外交官瘋了"
-"news:DIPLOMAT_SWAPPED","Bizarre Behavior From Top Negotiator Spoils Talks","高級交涉員的瘋顛行為毀了整個會談"
+"news:DIPLOMAT_SWAPPED","Bizarre Behavior From Top Negotiator Spoils Talks","高階談判員的瘋顛行為毀了整個會談"
 "news:DIPLOMAT_ORIGINAL","A Tentative Understanding","得出暫時性的結論"
 "news:DIPLOMAT_ORIGINAL","Kolechian Talks Establish Common Ground","與 Kolechia 的會談建立共識"
 "news:TALKS_BREAK_DOWN","Roadblock To Kolechian Resolution","高層決定停止與Kolechia往來"
@@ -1036,7 +1036,7 @@ Entrants with such a grant do not require an ENTRY PERMIT or an ID SUPPLEMENT.",
 「身份辨識補充信息」。"
 "bulletin:23A","Your position is important and your responsibilities are broad.
 
-Follow all protocols strictly.","這是一個重要的職位，你要負的責任非常的多。
+Follow all protocols strictly.","這是一個重要的職位，你必須負非常多的責任。
 
 務必嚴格落實所有的守則及程序。"
 "bulletin:24A","Recent events have cast suspicion on the activities of Arstotzkan citizens in the ALTAN district.
@@ -1045,13 +1045,13 @@ The Ministry of Information has requested our cooperation.
 
 A special drawer for confiscating documents has been installed in your booth.
 
-Continued...","Recent events have cast suspicion on the activities of Arstotzkan citizens in the ALTAN district.
+Continued...","近日的激進行動被懷疑是來自ALTAN區的Arstotzka國民所組織的。
 
-The 國家情報部 has requested our cooperation.
+國家情報部要求我們協助這項調查。
 
-A special drawer for confiscating documents has been installed in your booth.
+我們在你的工作室中安裝了一個專門用來存放沒收文的抽屜。
 
-Continued..."
+接下頁..."
 "bulletin:24B","The rulebook has been updated with information regarding confiscation policy.
 
 Confiscate all Arstotzkan passports from residents living in ALTAN district.
