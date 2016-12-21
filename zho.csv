@@ -1500,27 +1500,27 @@ Continue to confiscate all Arstotzkan passports from native entrants.","你的�
 "end:ignore-ezic","Grestin Border Checkpoint will reopen soon.","Grestin 邊境檢查哨將很快的再度啟用。"
 "end:ignore-ezic","Return to your post on January 1st.","請在明年1月1日回到你的職位報到。"
 "end:ignore-ezic","ENDLESS UNLOCK CODE: 62131","無盡模式 解鎖密碼： 62131"
-"endless:timed","Timed","Timed"
-"endless:timed","Process as many travelers as possible in 10 minutes.","Process as many travelers as possible in 10 minutes."
+"endless:timed","Timed","計時賽"
+"endless:timed","Process as many travelers as possible in 10 minutes.","在十分鐘內盡可能的經手更多旅客。"
 "endless:timed","ENDLESS - TIMED
 
-Process as many travelers as possible in 10 minutes. One point per traveler. Lose 30 seconds for each citation.","ENDLESS - TIMED
+Process as many travelers as possible in 10 minutes. One point per traveler. Lose 30 seconds for each citation.","無盡模式 - 計時賽
 
-Process as many travelers as possible in 10 minutes. One point per traveler. Lose 30 seconds for each citation."
-"endless:perfection","Perfection","Perfection"
-"endless:perfection","Game over at first penalty. Earn dwindling points.","Game over at first penalty. Earn dwindling points."
+在十分鐘內盡可能的處理更多旅客。每位成功經手的旅客將得到1分，收到的每張罰單將損失30秒的時間。"
+"endless:perfection","Perfection","完美癖"
+"endless:perfection","Game over at first penalty. Earn dwindling points.","一旦受到罰款，遊戲便會結束。能夠獲得的分數將隨著時間愈來愈少。"
 "endless:perfection","ENDLESS - PERFECTION
 
-Earn points for processing travelers. No citations allowed. Ten points per traveler in the first minute, one less point for each minute that passes. Work quickly.","ENDLESS - PERFECTION
+Earn points for processing travelers. No citations allowed. Ten points per traveler in the first minute, one less point for each minute that passes. Work quickly.","無盡模式 - 完美癖
 
-Earn points for processing travelers. No citations allowed. Ten points per traveler in the first minute, one less point for each minute that passes. Work quickly."
-"endless:endurance","Endurance","Endurance"
-"endless:endurance","Play until balance goes negative. Avoid penalties.","Play until balance goes negative. Avoid penalties."
+成功經手旅客以獲得積分，不容許任何錯誤。最初的60秒內每經手1位旅客計10分，每經過1分鐘經手旅客的分數下降1分。最好動作快點！"
+"endless:endurance","Endurance","耐力賽"
+"endless:endurance","Play until balance goes negative. Avoid penalties.","玩到你傾家蕩產為止。儘量避免罰款吧！"
 "endless:endurance","ENDLESS - ENDURANCE
 
-Process travelers until your balance drops below zero. Citations penalize an escalating number of points. The highest achieved points are remembered for scoring.","ENDLESS - ENDURANCE
+Process travelers until your balance drops below zero. Citations penalize an escalating number of points. The highest achieved points are remembered for scoring.","無盡模式 - 耐力賽
 
-Process travelers until your balance drops below zero. Citations penalize an escalating number of points. The highest achieved points are remembered for scoring."
+每天上下班經手過境旅客以賺取分數，直到你的帳本出現負債。罰單的金額會逐漸升高，最高得分將被紀錄。"
 "endless:course1","Course 1","Course 1"
 "endless:course2","Course 2","Course 2"
 "endless:course3","Course 3","Course 3"
