@@ -1521,12 +1521,12 @@ Earn points for processing travelers. No citations allowed. Ten points per trave
 Process travelers until your balance drops below zero. Citations penalize an escalating number of points. The highest achieved points are remembered for scoring.","無盡模式 - 耐力賽
 
 每天上下班經手過境旅客以賺取分數，直到你的帳本出現負債。罰單的金額會逐漸升高，最高得分將被紀錄。"
-"endless:course1","Course 1","Course 1"
-"endless:course2","Course 2","Course 2"
-"endless:course3","Course 3","Course 3"
-"endless:course4","Course 4","Course 4"
-"bullend:1A","Check rulebook for rules in effect.","Check rulebook for rules in effect."
-"bullend:2A","Check rulebook for rules in effect.","Check rulebook for rules in effect."
+"endless:course1","Course 1","路線 1 (RVS)"
+"endless:course2","Course 2","路線 2 (RVS)"
+"endless:course3","Course 3","路線 3 (RVS)"
+"endless:course4","Course 4","路線 4 (RVS)"
+"bullend:1A","Check rulebook for rules in effect.","參閱規則手冊中的「守則」章節以了解現行的制度。"
+"bullend:2A","Check rulebook for rules in effect.","參閱規則手冊中的「守則」章節以了解現行的制度。"
 "bullend:3A","Check rulebook for rules in effect. REASON FOR DENIAL stamp is required when denying entry.","參閱規則手冊中的「守則」章節以了解現行的制度。當拒絕旅客入境時，必須加蓋「拒絕入境事由」章。"
 "bullend:4A","Check rulebook for rules in effect. REASON FOR DENIAL stamp is required when denying entry.","參閱規則手冊中的「守則」章節以了解現行的制度。當拒絕旅客入境時，必須加蓋「拒絕入境事由」章。"
 "night:MANAGE_EXPENSES","Manage your expenses using the checkboxes below.","Manage your expenses using the checkboxes below."
