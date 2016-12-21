@@ -428,7 +428,7 @@
 "news:BIKE_ATTACK","Extremists Growing Bolder - Grestin Like Magnet","Grestin像磁鐵一樣 - 持續吸引邊境的激進份子"
 "news:BORDER_TARGETED","Can The Wall Hold?","這道牆還撐的住嗎？"
 "news:BORDER_TARGETED","Border Safety Continually Questioned","邊境安全不斷遭受質疑"
-"news:BIKERUNNER_NEWS","Coordinated Border Breach!","邊境遭受聯合攻擊"
+"news:BIKERUNNER_NEWS","Coordinated Border Breach!","邊境遭受同步攻擊"
 "news:BIKERUNNER_NEWS","Unknown Assailants Swamp Security","身份不明的攻擊者制霸警備員"
 "news:NOSY_JOURNALIST_APPROVED","Arstotzka's Frail Border","Arstotzka 脆弱的邊境"
 "news:NOSY_JOURNALIST_APPROVED","United Fed Reporter Exposes Lax Protocols","United Fed 記者揭露其鬆散的章程"
@@ -1073,7 +1073,7 @@ Continue to confiscate Arstotzkan passports from residents living in ALTAN distr
 
 拒簽所有持 United Federation 護照的旅客。
 
-對居住於 ALTAN 區域的 Arstotzka 國民沒收護照的政策須繼續進行。"
+繼續從居住於 ALTAN 區域的 Arstotzka 國民手中沒收護照。"
 "bulletin:26A","The risk of disease is too great. A new protocol has been instituted.
 
 All entrants must carry a valid CERTIFICATE OF VACCINATION with an up-to-date POLIO vaccine.
@@ -1091,68 +1091,67 @@ Continued...","為了對付傳染病日益增高的風險，新的檢疫程序�
 
 Continue to confiscate Arstotzkan passports from residents living in ALTAN district.","出示有效疫苗證明的 United Federation 公民將可准許入境。
 
-居住於 ALTAN 區的 Arstotzka 國民將被持續沒收護照。"
+繼續從居住於 ALTAN 區域的 Arstotzka 國民手中沒收護照。"
 "bulletin:27A","In order to improve efficiency, the ENTRY PERMIT and ID SUPPLEMENT have been consolidated into a single ACCESS PERMIT.
 
 Foreigners are now required to present a valid ACCESS PERMIT.
 
-Continued...","In order to improve efficiency, the ENTRY PERMIT and ID SUPPLEMENT have been consolidated into a single ACCESS PERMIT.
+Continued...","為了增進效率，「入境證」與「身份辨識補充信息」將合併為單項「入境許可證」。
 
-Foreigners are now required to present a valid ACCESS PERMIT.
+所有外籍人士現在開始需要出示有效「入境許可證」方可入境。
 
-Continued..."
+接下頁..."
 "bulletin:27B","Yesterday's coordinated attack has prompted an emergency meeting. 
 
 An important Kolechian negotiator will arrive today to discuss issues at this checkpoint.
 
-Continue to confiscate Arstotzkan passports from residents living in ALTAN district.","Yesterday's coordinated attack has prompted an emergency meeting. 
+Continue to confiscate Arstotzkan passports from residents living in ALTAN district.","昨日的同步攻擊促成了一場緊急面談的召開。
 
-An important Kolechian negotiator will arrive today to discuss issues at this checkpoint.
+一位重要的 Kolechia 交涉人今日將抵達本檢查哨商議重大議題。
 
-Continue to confiscate Arstotzkan passports from residents living in ALTAN district."
+
+繼續從居住於 ALTAN 區域的 Arstotzka 國民手中沒收護照。"
 "bulletin:28A","In response to continued attacks, the Ministry of Information is expanding the passport confiscation program.
 
 Confiscate all Arstotzkan passports from native entrants.
 
 There are no exceptions.
 
-Do not confiscate foreign passports.","In response to continued attacks, the Ministry of Information is expanding the passport confiscation program.
+Do not confiscate foreign passports.","為防範可能的恐怖攻擊，國家情報局將擴大沒收護照的範圍。
 
-Confiscate all Arstotzkan passports from native entrants.
+從所有入境旅客身上沒收 Arstotzka 護照。
 
-There are no exceptions.
+不允許任何例外。
 
-Do not confiscate foreign passports.
-
-國家情報部"
+外籍旅客的護照不必沒收。"
 "bulletin:29A","[NOTICE] All government workers are subject to a thorough information audit. Involvement with unauthorized groups is grounds for immediate arrest.
 
 Your audit is scheduled for: DECEMBER 24
 
 DO NOT LEAVE YOUR DESIGNATED REGION.
 
-Continued...","[NOTICE] All government workers are subject to a thorough information audit. Involvement with unauthorized groups is grounds for immediate arrest.
+Continued...","[注意] 所有公僕將被進行聽證調查。任何涉及不法團體的人員將立刻被逮捕。
 
-Your audit is scheduled for: DECEMBER 24
+你的聽證會將於 十二月 24日 舉行。
 
-DO NOT LEAVE YOUR DESIGNATED REGION.
+請 勿 離 開 你 的 指 定 活 動 範 圍。
 
-Continued..."
-"bulletin:29B","Continue to confiscate all Arstotzkan passports from native entrants.","Continue to confiscate all Arstotzkan passports from native entrants."
+接下頁..."
+"bulletin:29B","Continue to confiscate all Arstotzkan passports from native entrants.","繼續自 Arstotzka 國民手中沒收護照。"
 "bulletin:30A","[NOTICE] All government workers are subject to a thorough information audit. Involvement with unauthorized groups is grounds for immediate arrest.
 
 Your audit is scheduled for: DECEMBER 24
 
 DO NOT LEAVE YOUR DESIGNATED REGION.
 
-Continued...","[NOTICE] All government workers are subject to a thorough information audit. Involvement with unauthorized groups is grounds for immediate arrest.
+Continued...","[注意] 所有公僕將被進行聽證調查。任何涉及不法團體的人員將立刻被逮捕。
 
-Your audit is scheduled for: DECEMBER 24
+你的聽證會將於 十二月 24日 舉行。
 
-DO NOT LEAVE YOUR DESIGNATED REGION.
+請 勿 離 開 你 的 指 定 活 動 範 圍。
 
-Continued..."
-"bulletin:30B","Continue to confiscate all Arstotzkan passports from native entrants.","Continue to confiscate all Arstotzkan passports from native entrants."
+接下頁..."
+"bulletin:30B","Continue to confiscate all Arstotzkan passports from native entrants.","繼續自 Arstotzka 國民手中沒收護照。"
 "bulletin:31A","The Ministry of Admission is involved in discussions regarding the closure of this checkpoint.
 
 Until a decision is made, maintain your duties as ordered.
