@@ -109,7 +109,7 @@
 "GymFlyerInner","East Grestin","East Grestin"
 "HintMissingInner","THIS ENTRANT HAS NO DOCUMENTS","此入境申請人缺少所需文件"
 "HintMissingInner","To proceed, use INSPECT mode to interrogate.","進入「視察模式」進行標注及質詢。"
-"HintMissingInner","Review page 2 of today's bulletin for full instructions.","參閱今日佈告板第2頁的詳細流程。"
+"HintMissingInner","Review page 2 of today's bulletin for full instructions.","參閱今日告示板第2頁的詳細流程。"
 "IdCardInner","ARSTOTZKA IDENTITY CARD","ARSTOTZKA 身份證"
 "IdCardInner","DOB","生日"
 "IdCardInner","HT.","身高"
@@ -223,14 +223,14 @@
 "RulesInnerBooth","INSPECTOR'S BOOTH","移民官工作室"
 "RulesInnerBooth","Shutter","門簾開關"
 "RulesInnerBooth","Counter","櫃台"
-"RulesInnerBooth","Rule Book<br>Audio Trans.<br>Bulletin<br>Time &amp; Date","規則手冊<br>對話紀錄<br>佈告板<br>時間及日期"
+"RulesInnerBooth","Rule Book<br>Audio Trans.<br>Bulletin<br>Time &amp; Date","規則手冊<br>對話紀錄<br>告示板<br>時間及日期"
 "RulesInnerBooth","UPGRADES","升級配件"
 "RulesInnerBooth","NO UPGRADES<br>INSTALLED","沒有已安裝的配件"
 "RulesInnerBooth2","INSPECTOR'S BOOTH","INSPECTOR'S BOOTH"
 "RulesInnerBooth2","Shutter","門簾開關"
 "RulesInnerBooth2","Counter","櫃台"
 "RulesInnerBooth2","Audio Trans.<br>Rule Book<br>Weight","對話紀錄<br>規則手冊<br>體重"
-"RulesInnerBooth2","Bulletin<br>Time &amp; Date","佈告板<br>時間及日期"
+"RulesInnerBooth2","Bulletin<br>Time &amp; Date","告示板<br>時間及日期"
 "RulesInnerBooth2","UPGRADES","升級配件"
 "RulesInnerBooth2","NO UPGRADES<br>INSTALLED","沒有已安裝的配件"
 "RulesInnerDocs","OFFICIALLY RECOGNIZED","官方認可的"
@@ -734,7 +734,7 @@ $content
 
 Glory to Arstotzka.","Arstotzka
 入境管理部
-官方佈告板
+官方告示板
 
 移民官,
 
@@ -751,7 +751,7 @@ $content
 
 Glory to Arstotzka.","Arstotzka
 入境管理部
-官方佈告板
+官方告示板
 
 注意事項:
 
@@ -768,7 +768,7 @@ $course
 
 Glory to Arstotzka.","Arstotzka
 入境管理部
-官方公告
+官方告示板
 
 $style
 
@@ -914,53 +914,53 @@ Maintain your best behavior.","East Grestin的部門主管今天會來進行視�
 
 Nothing important was stolen but intelligence suggests counterfeiters have already begun forging official Arstotzkan documents.
 
-Continued...","A break-in at M.O.A. offices may have compromised our document sealing plates.
+Continued...","因為入管部的辦公室遭竊，我國各類文書的鋼印樣版可能已經外流。
 
-Nothing important was stolen but intelligence suggests counterfeiters have already begun forging official Arstotzkan documents.
+雖然沒有什麼太重要的機密被奪取，情報顯示犯罪集團已經開始製作各種偽造的 Arstotzkan 官方文件.
 
-Continued..."
+接下頁..."
 "bulletin:11B","__________________________
 FORGERIES
 
 Double-check that required documents contain valid seals. 
 
 Correlate missing or wrong seals against the appropriate entries in the DOCUMENTS chapter of your rulebook.","__________________________
-FORGERIES
+偽造文件
 
-Double-check that required documents contain valid seals. 
+請重複確認所有必要文件的鋼印是否正確。
 
-Correlate missing or wrong seals against the appropriate entries in the DOCUMENTS chapter of your rulebook."
+在「檢閱模式」下，將缺失或偽造的鋼印連結到「規則手冊」中「文件」章節相對應的正確範例以進行質詢。"
 "bulletin:13A","The new director is unsatisfied with the level of scrutiny afforded to foreigners.
 
 From today forward, all foreign entrants must present a recent IDENTITY SUPPLEMENT listing weight, height, and appearance.
 
-The rulebook DOCUMENTS chapter has been updated.","The new director is unsatisfied with the level of scrutiny afforded to foreigners.
+The rulebook DOCUMENTS chapter has been updated.","新上任的主官認為目前向外籍人士實施的檢查程度遠遠不足。
 
-From today forward, all foreign entrants must present a recent IDENTITY SUPPLEMENT listing weight, height, and appearance.
+從今天起，所有外籍入境旅客皆必須出示近期的「身份辨識補充信息」，其上登記有對象之身高、體重及外貌特徵。
 
-The rulebook DOCUMENTS chapter has been updated."
+規則手冊中「文件」章節已經做了相對應的更新，請查閱。"
 "bulletin:14A","The Ministry of Justice has requested our support.
 
 Daily bulletins will now contain a listing of the top 3 most wanted international criminals.
 
-Check faces against entrants and detain suspects immediately.[PAGESNOTE]","The Ministry of Justice has requested our support.
+Check faces against entrants and detain suspects immediately.[PAGESNOTE]","國家法務部對我們發出了協助要求。
 
-Daily bulletins will now contain a listing of the top 3 most wanted international criminals.
+現在起，告示板每天會列出國際通緝犯的前三名。
 
-Check faces against entrants and detain suspects immediately.[PAGESNOTE]"
+請檢查入境旅客的長相，若符合通緝資料則立刻移送法辦。[PAGESNOTE]"
 "bulletin:16A","The Ministry of Justice has appropriated the outer guard detail. 
 
 You are now responsible for controlling trespasser activity.
 
 The provided key can be used to unlock the tranquilizer gun once an alarm has been raised.
 
-Continued...[PAGESNOTE]","The Ministry of Justice has appropriated the outer guard detail. 
+Continued...[PAGESNOTE]","國家法務部調整了境外警配的人事。
 
-You are now responsible for controlling trespasser activity.
+現在開始，你必須負責監控並阻止試圖闖關的人。
 
-The provided key can be used to unlock the tranquilizer gun once an alarm has been raised.
+這把鑰匙可以在警鈴響起時打開麻醉槍的武器櫃。
 
-Continued...[PAGESNOTE]"
+接下頁...[PAGESNOTE]"
 "bulletin:16B","__________________________
 COMPENSATION
 
@@ -970,27 +970,27 @@ __________________________
 WEAPONS PROTOCOL
 
 Review instructional diagram on following page.","__________________________
-COMPENSATION
+獎金
 
-You will receive a bonus for stopping any trespasser. A smaller bonus is provided for firing on, but missing, your target.
+若成功制伏闖關者，你將會獲得一筆額外獎金。在開槍但未能擊中闖關者的情況下，國家還是會提供一筆較少的津貼給你。
 
 __________________________
-WEAPONS PROTOCOL
+武器使用守則
 
-Review instructional diagram on following page."
+請詳閱次頁的指導文件。"
 "bulletin:18A","Unfavorable international press has affected immigration protocol.
 
 All denials must be accompanied by a REASON FOR DENIAL stamp.
 
 A new computer inking system has been installed. Interrogate discrepancies to prime the REASON FOR DENIAL stamp.
 
-Continued...","Unfavorable international press has affected immigration protocol.
+Continued...","被惹腦的國際記者成功影響了我國現行的入境程序。
 
-All denials must be accompanied by a REASON FOR DENIAL stamp.
+現在開始，所有拒簽的護照皆必須一併蓋上「拒絕入境事由」的說明章。
 
-A new computer inking system has been installed. Interrogate discrepancies to prime the REASON FOR DENIAL stamp.
+新的電腦列印系統已經安裝在你的工作室了。對可疑或不合規定的資料進行質詢以登錄拒簽理由至系統中。
 
-Continued..."
+接下頁..."
 "bulletin:18B","__________________________
 DENIAL PROTOCOL
 
@@ -999,45 +999,46 @@ REASON FOR DENIAL stamp is activated on first interrogation.
 When denying entry, stamp both DENIED and REASON FOR DENIAL on passport.
 
 If applicant clarifies discrepancies sufficiently, approval is authorized even while REASON FOR DENIAL stamp remains available.","__________________________
-DENIAL PROTOCOL
+拒簽程序
 
-REASON FOR DENIAL stamp is activated on first interrogation.
+「拒絕入境事由」印章在第一次質詢後變會自動啟動。
 
-When denying entry, stamp both DENIED and REASON FOR DENIAL on passport.
+當確定拒簽旅客時，在護照的入境簽證頁同時蓋上「拒絕入境」章以及「拒絕入境事由」章。
 
-If applicant clarifies discrepancies sufficiently, approval is authorized even while REASON FOR DENIAL stamp remains available."
+若旅客能夠完整澄清對話或文件的差異處，即使「拒絕入境事由」系統已經啟動也應該給予入境簽證。"
 "bulletin:19A","Impor rejects all imported goods from Arstotzka.
 
 Under request from the Ministry of Trade, the Ministry of Admission will react to this violation.
 
-Deny all travelers from Impor.","Impor rejects all imported goods from Arstotzka.
+Deny all travelers from Impor.","Impor 封鎖了所有來自 Arstotzka 的進口貨物。
 
-Under request from the Ministry of Trade, the Ministry of Admission will react to this violation.
+受國際貿易部之託，入境管理部將針對此舉做出回應。
 
-Deny all travelers from Impor."
+請將所有國籍為 Impor 的旅客拒絕入境。"
 "bulletin:20A","Impor has relented on their faulty policy.
 
 Imporians are now permitted entry.
 
-The divisional authority of East Grestin operations will visit again today.","Impor has relented on their faulty policy.
+The divisional authority of East Grestin operations will visit again today.","Impor 已經收回他們的荒謬政策了。
 
-Imporians are now permitted entry.
+現在起不必封鎖 Impor 國民的入境。
 
-The divisional authority of East Grestin operations will visit again today."
+East Grestin 管理部的長官今天會再度來訪視察。"
 "bulletin:21A","A special program for political asylum has been established.
 
 Those seeking asylum must carry a valid GRANT OF ASYLUM.
 
-Entrants with such a grant do not require an ENTRY PERMIT or an ID SUPPLEMENT.","A special program for political asylum has been established.
+Entrants with such a grant do not require an ENTRY PERMIT or an ID SUPPLEMENT.","我們為政治庇護建立了一個特別流程。
 
-Those seeking asylum must carry a valid 政治庇護證明書.
+入境尋求政治庇護的人士必須出示有效的「政治庇護證明書」。
 
-Entrants with such a grant do not require an ENTRY PERMIT or an ID SUPPLEMENT."
+持有「政治庇護證明書」的申請人不需驗證「入境證」或
+「身份辨識補充信息」。"
 "bulletin:23A","Your position is important and your responsibilities are broad.
 
-Follow all protocols strictly.","Your position is important and your responsibilities are broad.
+Follow all protocols strictly.","這是一個重要的職位，你要負的責任非常的多。
 
-Follow all protocols strictly."
+務必嚴格落實所有的守則及程序。"
 "bulletin:24A","Recent events have cast suspicion on the activities of Arstotzkan citizens in the ALTAN district.
 
 The Ministry of Information has requested our cooperation.
@@ -1527,8 +1528,8 @@ Process travelers until your balance drops below zero. Citations penalize an esc
 "endless:course4","Course 4","Course 4"
 "bullend:1A","Check rulebook for rules in effect.","Check rulebook for rules in effect."
 "bullend:2A","Check rulebook for rules in effect.","Check rulebook for rules in effect."
-"bullend:3A","Check rulebook for rules in effect. REASON FOR DENIAL stamp is required when denying entry.","Check rulebook for rules in effect. REASON FOR DENIAL stamp is required when denying entry."
-"bullend:4A","Check rulebook for rules in effect. REASON FOR DENIAL stamp is required when denying entry.","Check rulebook for rules in effect. REASON FOR DENIAL stamp is required when denying entry."
+"bullend:3A","Check rulebook for rules in effect. REASON FOR DENIAL stamp is required when denying entry.","參閱規則手冊中的「守則」章節以了解現行的制度。當拒絕旅客入境時，必須加蓋「拒絕入境事由」章。"
+"bullend:4A","Check rulebook for rules in effect. REASON FOR DENIAL stamp is required when denying entry.","參閱規則手冊中的「守則」章節以了解現行的制度。當拒絕旅客入境時，必須加蓋「拒絕入境事由」章。"
 "night:MANAGE_EXPENSES","Manage your expenses using the checkboxes below.","Manage your expenses using the checkboxes below."
 "night:AFTER_6PM","Applicants entering after 6PM are unpaid.","Applicants entering after 6PM are unpaid."
 "night:PROGRESS_SAVED","Progress is saved at the start of each day.","Progress is saved at the start of each day."
@@ -1848,9 +1849,9 @@ HOLD YOUR FIRE
 "traveler:SECRET_POLICE_CAUGHT","There is small discrepancy with your finances.","There is small discrepancy with your finances."
 "traveler:SECRET_POLICE_CAUGHT","The Ministry of Income was thoughtful enough to notify us.","The Ministry of Income was thoughtful enough to notify us."
 "traveler:SECRET_POLICE_CAUGHT","It is best if you come with me.","It is best if you come with me."
-"traveler:SECRET_POLICE_FINAL","Inspector.","Inspector."
+"traveler:SECRET_POLICE_FINAL","Inspector.","移民官。"
 "traveler:SECRET_POLICE_FINAL","It has been some time.","It has been some time."
-"traveler:SECRET_POLICE_FINAL","Read your bulletin carefully today.","Read your bulletin carefully today."
+"traveler:SECRET_POLICE_FINAL","Read your bulletin carefully today.","Read your 告示板 carefully today."
 "traveler:SECRET_POLICE_FINAL","We will be speaking with many workers.","We will be speaking with many workers."
 "traveler:SECRET_POLICE_FINAL","Your audit comes soon.","Your audit comes soon."
 "traveler:SECRET_POLICE_FINAL","I will personally conduct it.","I will personally conduct it."
@@ -1972,10 +1973,10 @@ HOLD YOUR FIRE
 "traveler:JORJI_CRIMINAL","Is good to see you again!","Is good to see you again!"
 "traveler:JORJI_CRIMINAL","Today I come just for short visit.","Today I come just for short visit."
 "traveler:JORJI_CRIMINAL","Everything is definitely ok with me.","Everything is definitely ok with me."
-"traveler:JORJI_CRIMINAL","For sure I am not in criminal bulletin or anything!","For sure I am not in criminal bulletin or anything!"
-"traveler:JORJI_CRIMINAL","@Your face is in wanted bulletin.","@Your face is in wanted bulletin."
+"traveler:JORJI_CRIMINAL","For sure I am not in criminal bulletin or anything!","For sure I am not in criminal 告示板 or anything!"
+"traveler:JORJI_CRIMINAL","@Your face is in wanted bulletin.","@Your face is in wanted 告示板."
 "traveler:JORJI_CRIMINAL","What! I pay police like crazy!","What! I pay police like crazy!"
-"traveler:JORJI_CRIMINAL","They promise no bulletin. All clear they say.","They promise no bulletin. All clear they say."
+"traveler:JORJI_CRIMINAL","They promise no bulletin. All clear they say.","They promise no 告示板. All clear they say."
 "traveler:JORJI_CRIMINAL","I think twice about trusting friendly people.","I think twice about trusting friendly people."
 "traveler:JORJI_CRIMINAL","Hey I really like you.","Hey I really like you."
 "traveler:JORJI_CRIMINAL","I know is risky to help me like this.","I know is risky to help me like this."
