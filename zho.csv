@@ -1530,7 +1530,7 @@ Process travelers until your balance drops below zero. Citations penalize an esc
 "bullend:3A","Check rulebook for rules in effect. REASON FOR DENIAL stamp is required when denying entry.","參閱規則手冊中的「守則」章節以了解現行的制度。當拒絕旅客入境時，必須加蓋「拒絕入境事由」章。"
 "bullend:4A","Check rulebook for rules in effect. REASON FOR DENIAL stamp is required when denying entry.","參閱規則手冊中的「守則」章節以了解現行的制度。當拒絕旅客入境時，必須加蓋「拒絕入境事由」章。"
 "night:MANAGE_EXPENSES","Manage your expenses using the checkboxes below.","用下列的複選框來管理你的開銷"
-"night:AFTER_6PM","Applicants entering after 6PM are unpaid.","超過六點才入境的旅客將不列入薪資計算中。"
+"night:AFTER_6PM","Applicants entering after 6PM are unpaid.","超過六點才入境的旅客將不列入薪資計算。"
 "night:PROGRESS_SAVED","Progress is saved at the start of each day.","遊戲進度會在每天開始時自動記錄。"
 "night:ATTACK_DIDNOTHING","The day was cut short by a terrorist attack.","因為恐怖攻擊，今日的工作提早結束了。"
 "night:ATTACK_FIREDGUN","The day was cut short by a terrorist attack.","因為恐怖攻擊，今日的工作提早結束了。"
